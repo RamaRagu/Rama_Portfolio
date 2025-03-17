@@ -2,10 +2,6 @@
   Rama Portfolio - v2.0<br/>
   <a href="https://your-portfolio-url.com/" target="_blank">your-portfolio-url.com</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./images/readme-img1.png" />
-</div>
-
 <br/>
 
 <center>
