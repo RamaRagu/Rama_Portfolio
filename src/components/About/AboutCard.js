@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Rama Raguram</span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> Colombo, SriLanka.</span>
             <br />
             I am currently Completed my 2nd year in BSc in Computer Science at
             University of Westminster - IIT.
