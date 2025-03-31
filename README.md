@@ -1,18 +1,9 @@
 <h2 align="center">
   Rama Portfolio - v2.0<br/>
-  <a href="https://your-portfolio-url.com/" target="_blank">your-portfolio-url.com</a>
+  <a href="https://rama-portfolio-one.vercel.app/" target="_blank">link</a>
 </h2>
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/RamaRagu/Rama_Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/RamaRagu/Rama_Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
 
 <h3 align="center">
     🔹
@@ -20,10 +11,6 @@
     🔹
     <a href="https://github.com/RamaRagu/Rama_Portfolio/issues">Request Feature</a>
 </h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [RamaRagu](https://github.com/RamaRagu/Rama_Portfolio). Thanks!
 
 ## Built With
 
