@@ -9,11 +9,12 @@
 My personal <a href="https://rama-portfolio-one.vercel.app/" target="_blank">portfolio</a> which features some of my projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
-
+- React
 - JavaScript
 - CSS3
 - HTML5
 - VsCode
+
 
 ## Features
 
